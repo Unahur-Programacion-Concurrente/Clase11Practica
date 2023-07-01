@@ -32,7 +32,7 @@ Modificar los programas Cliente y Servidor:
 
 
 ## Ejercicio 5
-Modificar los programas Cliente y Servidor:
+Modificar el programa Cliente:
 - El Cliente solicite al usuario que ingrese su nombre (nick)
-- El Servidor identifique a los clientes por su nombre y lo incluya en los mensajes de modo de identicar de quien pesrovienen.
+- El Cliente agregue el nombre al comienzo de los mensajes de modo de identicar de quien proviene.
 - El Servidor imprima localmente un mensaje identificando al hilo que está controlando.
